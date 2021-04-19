@@ -3,7 +3,4 @@
 </p>
            
 
-<ul sytle="list-style-type: none; display: flex; padding: 0;">
-  <li style="display: inline-flex;" ><img src="https://github-readme-stats.vercel.app/api?username=mghorbani2357&show_icons=true&theme=vue&count_private=true&include_all_commits=true"></li>
-  <li style="display: inline-flex; width=90%"><img src="https://github-readme-stats.vercel.app/api?username=mghorbani2357&show_icons=true&theme=vue&count_private=true&include_all_commits=true"></li>
-</ul>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mghorbani2357&show_icons=true&theme=vue&count_private=true&include_all_commits=true"> 
